@@ -1,0 +1,60 @@
+body {
+	margin: 0px;
+}
+.site_banner {
+	border-bottom:black, 1px ;
+	border-top: black, 8px;
+	padding: 20px;
+	text-align: center;
+}
+#rep {
+	font-family: Basier, serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #de2f23;
+	letter-spacing: 1px;
+}
+.article {
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.story_header {
+	font-family: Basier, serif;
+	font-size: 20px;
+}
+#headline {
+	font-size: 46px;
+	margin-bottom: 0px;
+}
+.byline {
+	font-weight: bold;
+}
+.story_copy {
+	font-family: Pensum, sans-serif;
+	font-size: 20px;
+}
+.photo {
+	width: 100%;
+}
+.photo_caption {
+	color: gray;
+	font-size: 14px;
+	margin-top: 0px;
+}
+.footer {
+	font-family: Basier;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.footer_info {
+	color: gray;
+	font-size: 14px;
+}
+a {
+	color: black;
+}
+
+a:hover {
+	color: gray;
+}
